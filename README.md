@@ -22,3 +22,11 @@ ____
 cal
 ____
 `cal` 命令行日历
+
+ssh
+___
+`ssh xxx bash < xxx.sh` 远程执行脚本
+
+vim 
+___
+`vim scp://xxx/~/.bashrc` vim编辑远程文件
