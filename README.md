@@ -30,3 +30,9 @@ ___
 vim 
 ___
 `vim scp://xxx/~/.bashrc` vim编辑远程文件
+
+命令行快捷键
+____
+`CTRL+a` 移动光标到行首
+`CTRL+e` 移动光标到行末
+
